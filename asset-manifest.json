@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sakk/static/css/main.421eb769.css",
+    "main.js": "/sakk/static/js/main.a9b55c44.js",
+    "static/media/bootstrap-icons.woff?": "/sakk/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/sakk/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/sakk/index.html",
+    "main.421eb769.css.map": "/sakk/static/css/main.421eb769.css.map",
+    "main.a9b55c44.js.map": "/sakk/static/js/main.a9b55c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.421eb769.css",
+    "static/js/main.a9b55c44.js"
+  ]
+}
